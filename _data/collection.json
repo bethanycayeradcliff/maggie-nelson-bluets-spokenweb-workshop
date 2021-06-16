@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Maggie Nelson Bluets #235" ] },
+    "summary": { "en": [ "This is a test project that's part of the SpokenWeb Pedagogy Workshop" ] },
+    "items": [
+    ]
+}
